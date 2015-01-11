@@ -1,0 +1,9 @@
+Package: com.efrederickson.ninkeyboardmoremem
+Name: NinKeyboardMoreMem
+Depends: mobilesubstrate, jetslammed
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Elijah Frederickson
+Author: Elijah Frederickson
+Section: Tweaks
